@@ -1,3 +1,7 @@
+# Logical Operators and More Conditionals
+
+Week 1 - Logical Operators and More Conditionals
+
 ### Basic Requirments
 
 1.Is the ! operator a unary operator, or binary operator?
